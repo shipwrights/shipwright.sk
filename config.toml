@@ -1,0 +1,5 @@
+baseURL = "https://blog.arcapola.com"
+languageCode = "en-us"
+title = "The Arcapola Guild of Boat Designers and Ship Wrights"
+
+theme = "simple-hugo-theme"
