@@ -20,25 +20,22 @@ pygmentsStyle = "vs"
 
 [menu]
 	[[menu.main]]
-		url = "/posts/"
-		name = "blog"
+		url = "/kb/"
+		name = "knowledge base"
 		weight = 1
 	[[menu.main]]
-		url = "/about/"
-		name = "about"
+		url = "/team/"
+		name = "team"
 		weight = 2
 
 	[[menu.footer]]
-		url = "/posts/index.xml"
+		url = "/index.xml"
 		name = "RSS"
 		weight = 1
 	[[menu.footer]]
 		url = "mailto:peter@arcapola.com"
 		name = "Contact"
 		weight = 2
-
-[permalinks]
-	posts = "/posts/:year/:month/:title/"
 
 [params]
 	datefmt = "2006-01-02"
