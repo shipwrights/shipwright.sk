@@ -1,6 +1,11 @@
 ---
 title: "Team - Peter Polacik"
 date: 2019-05-24T13:05:00Z
+categories:
+ - people
+tags:
+ - sw
+ - bd
 ---
 
 **Peter Polacik MBD MSW** (ID-SW-042, ID-BD-042) is a founder and leader of Arcapola Guild of Boat Designers and Ship Wrights.
