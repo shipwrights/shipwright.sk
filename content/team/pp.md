@@ -1,6 +1,5 @@
 ---
-title: "Team - Peter Polacik"
-date: 2019-05-24T13:05:00Z
+title: "Peter Polacik"
 categories:
  - people
 tags:
